@@ -13,6 +13,7 @@ mongo = "^0.2.0"
 mongoengine = "^0.27.0"
 redis = "^5.0.1"
 sqlalchemy = "^2.0.25"
+beautifulsoup4 = "^4.12.2"
 
 
 [build-system]
